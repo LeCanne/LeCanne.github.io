@@ -26,7 +26,7 @@ h1{
 header {
  background: url(./BackgroundHeader.png) repeat-x;
     background-size: contain;
-    /* position: fixed; */
+    position: relative; 
     text-align: left;
     color: white;
      font-size: 20px; 
