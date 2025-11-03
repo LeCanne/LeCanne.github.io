@@ -14,7 +14,7 @@ h1{
 
 @keyframes slide
 {
-100% {background-position: 800px 0px;}
+100% {background-position: 1000px 0px;}
   }
 
 header {
@@ -25,7 +25,7 @@ header {
     color: white;
      font-size: 20px; 
     animation: slide 5s linear infinite;
-    height: 200px;
+    height: 185px;
     padding: 0px 0px;
     margin: 0px 0px;
     display: flex;
