@@ -43,7 +43,8 @@ header {
 	display: inline-block;
 	position: absolute;
 	padding: 0px;
-	margin: 700px;
+	margin: 15px, 300px ;
+	overflow:hide
 }
 	
 
