@@ -17,7 +17,7 @@ h1{
     transform: translate3d(0px, 0, 0);
   }
   100%{
-    transform: translate3d(-1920pxpx, 0px, 0);
+    transform: translate3d(-1920px, 0px, 0);
   }
 }
 
