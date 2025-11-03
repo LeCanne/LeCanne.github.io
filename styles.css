@@ -24,6 +24,7 @@ h1{
 
 
 header {
+  position: fixed;
   margin: 0px;
   padding: 2px 35px;
   text-align: left;
