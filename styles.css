@@ -32,7 +32,9 @@ header {
 
 
 #bandBeginning {
-  position: relative
+  position: relative;
+  margin: 0px;
+  padding: 10px 0px;
 }
   
 #bandCaption {
