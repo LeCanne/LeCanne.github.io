@@ -1,6 +1,7 @@
 
 body {
   margin: 0px;
+  display: flex;
   font-family: 'Courier New', monospace;
 }
 p {
