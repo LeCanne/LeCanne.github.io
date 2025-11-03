@@ -38,8 +38,16 @@ header {
     margin: 0px;
  }
 
-#bandContainer {
+.BandEnd
+{
+	display: inline-block;
+	position: absolute;
+	padding: 0px;
+	margin: 700px;
+}
+	
 
+#bandContainer {
   position: relative;
   margin: 0px;
   padding: 15px 0px;
