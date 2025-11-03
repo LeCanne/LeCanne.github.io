@@ -14,8 +14,7 @@ h1{
 
 @keyframes slide
 {
- from {background-position: left;}
-  to {background-position: right;}
+  100% {background-position: 32px -32px;}
   }
 
 header {
