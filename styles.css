@@ -14,8 +14,9 @@ h1{
 
 @keyframes slide
 {
-  100% {background-position: 32px -32px;}
-  }
+  0%{background-position: 0 0;}
+	100%{background-position: 100vw 0;}
+}
 
 header {
  background: url(./BackgroundHeader.png) repeat-x;
