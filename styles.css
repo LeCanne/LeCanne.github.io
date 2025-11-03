@@ -21,6 +21,15 @@ h1{
   }
 }
 
+.container {
+  overflow: hidden;
+}
+
+.infinite-scrolling { 
+  background: url("./BackgroundHeader.png") repeat-x; 
+  height: 645px; 
+  width: 5760px; 
+}
 
 #header-background{
    background: url("./BackgroundHeader.png") repeat;
