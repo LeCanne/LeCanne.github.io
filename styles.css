@@ -29,13 +29,10 @@ h1{
   background: url("./BackgroundHeader.png") repeat-x; 
   height: 645px; 
   width: 5760px; 
+  animation: slide 10s linear infinite;
 }
 
-#header-background{
-   background: url("./BackgroundHeader.png") repeat;
-   background-size: contain;
-   animation: slide 5s linear infinite;
-}
+
 
 header {
   position: fixed;
