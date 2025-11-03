@@ -24,11 +24,15 @@ h1{
 
 
 header {
-  background: url("./BackgroundHeader.png") repeat-x; 
-  background-size:contain;
-  position: fixed;
-  text-align: left;
-  color: white;
-  font-size: 20px;
-   animation: slide 5s linear infinite;
+ background: url(./BackgroundHeader.png) repeat-x;
+    background-size: contain;
+    /* position: fixed; */
+    text-align: left;
+    color: white;
+     font-size: 20px; 
+    animation: slide 5s linear infinite;
+    height: 100px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    display: flex
 }
