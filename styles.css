@@ -1,7 +1,6 @@
 
 body {
   margin: 0px;
-  display: flex;
   font-family: 'Courier New', monospace;
 }
 p {
@@ -35,5 +34,5 @@ header {
     height: 100px;
     padding: 0px 0px;
     margin: 0px 0px;
-    display: flex
+    display: flex;
 }
