@@ -44,9 +44,23 @@ header {
 	display: inline-block;
 	position: absolute;
 	padding: 0px;
-	margin: 0px, 0px ;
+	margin: 0px;
 	overflow:hide
 }
+
+.BandWayContainer
+{
+	position: relative;
+	display: flex;
+	margin: 0px;
+	padding: 0px;
+}
+
+.BandWayCaption
+{
+ position: absolute;	
+}
+		
 	
 
 #bandContainer {
