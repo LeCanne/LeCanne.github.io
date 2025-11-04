@@ -25,13 +25,20 @@ header {
     position: relative; 
     text-align: left;
     color: white;
-     font-size: 20px; 
+    font-size: 20px; 
     animation: slide 20s linear infinite;
     height: 185px;
     padding: 0px 0px;
     margin: 0px 0px;
     display: flex;
-  
+}
+
+body
+{
+	background-color: black;
+}
+	
+
 .BandBlock
  {
     display: inline-block;
