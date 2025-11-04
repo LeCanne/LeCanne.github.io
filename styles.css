@@ -3,14 +3,15 @@ body {
   margin: 0px;
   font-family: 'Courier New', monospace;
 }
-p {
-  text-align: center;
+
+.Year
+{
+text-decoration: underline, bold;
+padding: 10px, 0px;
+
+	
 }
-h1{
-  text-align: left;
-  color: black;
-  border: none;
-}
+
 
 @keyframes slide
 {
