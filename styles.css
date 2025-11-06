@@ -85,7 +85,11 @@ body
     margin: auto;
 }
 	
-		
+
+.FirstSection
+{
+	background-color: "yellow";
+}
 	
 
 #bandContainer {
