@@ -65,7 +65,9 @@ body
 
 .BandWayCaption
 {
- position: absolute;	
+ position: absolute;
+ width: 700px
+ padding: -20px 0px
 }
 		
 	
