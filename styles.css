@@ -75,22 +75,21 @@ body
  size: contain;
 }
 
-@media only screen and (max-width: 500px) {
-
-.BandWayCaption {
-
- position: absolute;
- width: 100%;
- box-sizing: border-box;
- padding: 100px 0px 10px 50px;
- font-family: system-ui;    
- line-height: 19px;
- font-size: clamp(1px, 1.5vw, 40px);
- size: contain;
-
+@media only screen and (min-width : 480px) 
+{
+    .BandWayCaption 
+	{
+	 position: absolute;
+	 width: 100%;
+	 box-sizing: border-box;
+	 padding: 100px 0px 10px 50px;
+	 font-family: system-ui;    
+	 line-height: 19px;
+	 font-size: clamp(1px, 1.5vw, 40px);
+	 size: contain;
+	}
 }
 
-}
 
 
 
