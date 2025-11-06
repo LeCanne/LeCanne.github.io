@@ -104,7 +104,7 @@ body
 {
     display: flex;
     position: relative;
-	width: calc(1vw * 90)
+	width: calc(1vw * 90);
     height: 450px;
     margin: auto;
 	padding-top: 60px;
