@@ -92,6 +92,11 @@ body
 	background: url(./Section1.png) repeat;
 	padding-bottom: 200px;
 }
+
+.Separater
+{
+	background:url(./Separation.png) repeat-x;
+}
 	
 
 #bandContainer {
