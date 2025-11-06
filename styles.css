@@ -109,6 +109,17 @@ body
 	background: url(./Section2.png) repeat;
 	padding-bottom: 200px;
 }
+
+.SecondSeparater
+{
+	
+}
+
+.ThirdSection
+{
+	background: url(./Section3.png) repeat;
+	padding-bottom: 200px;
+}
 	
 
 #bandContainer {
