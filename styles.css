@@ -88,7 +88,7 @@ body
 
 .FirstSection
 {
-	background-color: yellow;
+	background: url(./Section1.png) repeat-x repeat-y;
 	padding-bottom: 200px;
 }
 	
