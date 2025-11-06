@@ -103,6 +103,12 @@ body
     background-size: contain;
     top: 1130px;
 }
+
+.SecondSection
+{
+	background: url(./Section2.png) repeat;
+	padding-bottom: 200px;
+}
 	
 
 #bandContainer {
