@@ -75,6 +75,15 @@ body
  padding: 0px
  position: absolute;
 }
+
+.TrailerVideo
+{
+    display: flex;
+    position: relative;
+    width: 900px;
+    height: 450px;
+    margin: auto;
+}
 	
 		
 	
