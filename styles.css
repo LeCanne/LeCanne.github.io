@@ -69,6 +69,13 @@ body
  width: 10000px;
  padding: 100px 60px 10px 50px
 }
+
+.GameSection
+{
+ padding: 0px
+ position: absolute;
+}
+	
 		
 	
 
