@@ -95,8 +95,11 @@ body
 
 .Separater
 {
-	background:url(./Separation.png) repeat-x;
-	display: flex;
+	
+	ackground: url(./Separation.png) repeat-x;
+    display: flex;
+    height: 170px;
+    background-size: contain;
 }
 	
 
