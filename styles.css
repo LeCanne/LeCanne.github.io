@@ -67,6 +67,7 @@ body
 {
  position: absolute;
  width: 1400px;
+ box-sizing: border-box;
  padding: 100px 0px 10px 50px
 }
 
