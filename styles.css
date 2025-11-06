@@ -63,7 +63,19 @@ body
 	padding: 0px;
 }
 
-@media (max-width: 481px) {
+.BandWayCaption
+{
+ position: absolute;
+ width: 100%;
+ box-sizing: border-box;
+ padding: 100px 0px 10px 50px;
+ font-family: system-ui;    
+ line-height: 19px;
+ font-size: clamp(1px, 1.5vw, 23px);
+ size: contain;
+}
+
+@media (max-width: 500px) {
 
 .BandWayCaption {
 
@@ -80,17 +92,7 @@ body
 
 }
 
-.BandWayCaption
-{
- position: absolute;
- width: 100%;
- box-sizing: border-box;
- padding: 100px 0px 10px 50px;
- font-family: system-ui;    
- line-height: 19px;
- font-size: clamp(1px, 1.5vw, 23px);
- size: contain;
-}
+
 
 .GameSection
 {
