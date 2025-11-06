@@ -93,13 +93,15 @@ body
 	padding-bottom: 200px;
 }
 
-.Separater
+.FirstSeparater
 {
-	
-	ackground: url(./Separation.png) repeat-x;
+	background: url(./Separation.png) repeat-x;
     display: flex;
     height: 170px;
+    width: 100%;
+    position: absolute;
     background-size: contain;
+    top: 1140px;
 }
 	
 
