@@ -97,11 +97,11 @@ body
 {
 	background: url(./Separation.png) repeat-x;
     display: flex;
-    height: 170px;
+    height: 160px;
     width: 100%;
     position: absolute;
     background-size: contain;
-    top: 1140px;
+    top: 1130px;
 }
 	
 
