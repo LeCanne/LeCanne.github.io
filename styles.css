@@ -68,7 +68,7 @@ body
  position: absolute;
  width: 100%;
  box-sizing: border-box;
- padding: 100px 0px 10px 50px
+ padding: 100px 0px 10px 50px;
  font-family: system-ui;    
  line-height: 19px;
  size: contain;
