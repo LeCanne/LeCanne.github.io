@@ -96,6 +96,7 @@ body
 .Separater
 {
 	background:url(./Separation.png) repeat-x;
+	display: flex;
 }
 	
 
