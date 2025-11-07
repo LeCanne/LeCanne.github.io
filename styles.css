@@ -177,11 +177,11 @@ body
 {
   position: relative;
   margin: 0px;
-  padding: 0px 0px;
+  padding: 15px 0px;
 }
   
 #bandCaption {
- position: absolute;
+  position: absolute;
   width: 300px;
   line-height: 170px;
   text-align: left;
@@ -191,6 +191,18 @@ body
   color: black;
   font-weight:bold;
  
+}
+
+#FooterCaption {
+  position: absolute;
+  width: 300px;
+  line-height: 0px;
+  text-align: left;
+  left: 30px;
+  top: 40px;
+  text-shadow: 0 0 1px white;
+  color: black;
+  font-weight:bold;
 }
 
 
