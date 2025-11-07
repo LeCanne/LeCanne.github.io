@@ -33,6 +33,21 @@ header {
     display: flex;
 }
 
+footer
+{
+	 background: url(./BackgroundHeader.png) repeat-x;
+    background-size: contain;
+    position: relative; 
+    text-align: left;
+    color: white;
+    font-size: 20px; 
+    animation: slide 20s linear infinite;
+    height: 120px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    display: flex;
+}
+
 body
 {
 	background-color: black;
