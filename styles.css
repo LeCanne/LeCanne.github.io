@@ -172,6 +172,13 @@ body
   margin: 0px;
   padding: 15px 0px;
 }
+
+#FooterContainer
+{
+  position: relative;
+  margin: 0px;
+  padding: 15px 0px;
+}
   
 #bandCaption {
  position: absolute;
